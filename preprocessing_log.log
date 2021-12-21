@@ -1,0 +1,87 @@
+2021-12-20/21:56:09		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-20/21:56:09		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-20/21:56:23		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-20/21:56:23		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-20/22:40:54		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-20/22:40:54		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-20/22:41:18		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-20/22:41:18		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2021-12-20/22:43:53		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-20/22:43:53		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-20/22:43:53		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-20/22:43:53		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2021-12-20/22:44:16		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-20/22:44:16		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-20/22:44:17		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-20/22:44:17		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2021-12-20/22:45:49		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-20/22:45:49		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-20/22:45:49		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-20/22:45:49		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2021-12-20/22:48:24		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-20/22:48:24		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-20/22:48:24		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-20/22:48:24		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2021-12-20/22:48:28		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-20/22:48:28		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2021-12-20/22:48:49		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-20/22:48:49		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-20/22:48:49		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-20/22:48:49		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2021-12-20/22:57:54		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-20/22:57:54		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-20/22:57:54		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-20/22:57:54		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2021-12-20/22:58:50		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-20/22:58:50		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-20/22:58:50		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-20/22:58:50		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2021-12-20/22:58:56		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-20/22:58:56		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2021-12-20/23:00:13		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-20/23:00:13		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2021-12-21/08:59:01		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-21/08:59:01		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-21/09:00:35		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-21/09:00:35		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-21/09:11:13		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-21/09:11:13		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2021-12-21/09:12:17		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-21/09:12:17		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2021-12-21/09:36:44		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-21/09:36:44		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2021-12-21/09:38:04		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-21/09:38:04		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2021-12-21/09:38:32		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-21/09:38:32		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2021-12-21/09:40:02		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-21/09:40:02		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2021-12-21/09:40:34		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-21/09:40:34		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-21/09:40:34		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-21/09:40:34		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2021-12-21/09:40:57		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-21/09:40:57		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2021-12-21/09:43:02		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-21/09:47:31		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-21/09:47:31		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-21/09:47:38		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-21/09:55:13		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-21/09:55:13		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-21/09:55:13		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-21/10:09:50		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-21/10:09:50		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-21/10:09:50		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-21/10:14:28		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-21/10:14:28		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-21/10:14:29		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-21/10:29:45		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-21/10:29:45		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-21/10:29:45		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-21/10:32:53		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-21/10:33:07		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-21/10:33:07		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-21/10:43:51		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-21/10:43:51		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-21/10:43:51		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-21/10:43:51		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
