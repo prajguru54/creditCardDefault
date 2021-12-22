@@ -145,7 +145,7 @@ class Preprocessor:
         self.data=data
 
         try:
-            self.num_df = self.data.loc[:, numerical_columns].copy()
+            self.num_df = self.data.loc[:, numerical_columns]
             self.scaler = StandardScaler()
             self.scaled_data = self.scaler.fit_transform(self.num_df)
             self.scaled_num_df = pd.DataFrame(data=self.scaled_data, columns=self.num_df.columns)
@@ -168,6 +168,7 @@ class Preprocessor:
         try:
             self.data = data.loc[:, columns_to_encode].astype('category').copy()
             self.df_dummies = pd.get_dummies(self.data.loc[:, columns_to_encode], drop_first=True)
+            self.logger_object.log(self.file_object, 'Encoding catagorical values successful')
             return self.df_dummies
 
         except Exception as e:
@@ -199,5 +200,4 @@ class Preprocessor:
                                    'dataset balancing Failed. Exited the handle_imbalanced_dataset method of the Preprocessor class')
             raise Exception()
 
-    def test(self):
-        print("Working fine")
+
