@@ -9,7 +9,7 @@ from sklearn.linear_model import LogisticRegression
 from xgboost import XGBClassifier
 
 
-filepath = r'E:\Me\Project\INeuron\creditCardDefaulters\creditCardDefaulters\code\creditCardDefaulters\Training_Batch_Files'
+filepath = r'Training_Batch_Files'
 
 ##############################Data Loading##############################
 #Load all the csv files from the path specified

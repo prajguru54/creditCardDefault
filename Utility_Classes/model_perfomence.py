@@ -30,5 +30,5 @@ class ModelFinder:
         plt.title("Perfomence of various models")
         plt.xlabel("Model")
         plt.ylabel("f1 Scores")
-        plt.savefig('model_perfomence.png')
+        plt.savefig('Plots/model_perfomence.png')
         

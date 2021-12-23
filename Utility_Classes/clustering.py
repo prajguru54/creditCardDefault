@@ -32,7 +32,7 @@ class KMeansClustering:
             plt.xlabel('Number of clusters')
             plt.ylabel('WCSS')
             #plt.show()
-            plt.savefig('K-Means_Elbow.PNG') # saving the elbow plot locally
+            plt.savefig('Plots/K-Means_Elbow.png') # saving the elbow plot locally
             # finding the value of the optimum cluster programmatically
             self.kn = KneeLocator(range(1, 11), wcss, curve='convex', direction='decreasing')
             self.logger_object.log(self.file_object, 'The optimum number of clusters is: '+str(self.kn.knee)+' . Exited the elbow_plot method of the KMeansClustering class')
@@ -64,7 +64,7 @@ class KMeansClustering:
             # self.file_op = file_methods.File_Operation(self.file_object,self.logger_object)
             # self.save_model = self.file_op.save_model(self.kmeans, 'KMeans') # saving the KMeans model to directory
             
-            pickle.dump(self.kmeans, open('model-kmeans', 'wb'))                                                                # passing 'Model' as the functions need three parameters
+            pickle.dump(self.kmeans, open('Saved_Models/model-kmeans', 'wb'))                                                                # passing 'Model' as the functions need three parameters
 
             self.data['Cluster']=self.y_kmeans  # create a new column in dataset for storing the cluster information
             self.logger_object.log(self.file_object, 'succesfully created '+str(self.kn.knee)+ 'clusters. Exited the create_clusters method of the KMeansClustering class')
