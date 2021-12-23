@@ -7,14 +7,14 @@
     <!-- <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet" /> -->
   </head>
   <body>
-    <form action="/prediction" class="decor" method="POST">
+    <form action="/" class="decor" method="GET">
       <div class="form-left-decoration"></div>
       <div class="form-right-decoration"></div>
       <div class="circle"></div>
       <div class="form-inner">
-        <h1>Predict Now</h1>
-        <input type="text" name="filepath" placeholder="Enter prediction filepath here">
-        <button type="submit">Submit</button>
+        <h1>Prediction files are created at below path:</h1>
+        <h4>{{ path }}</h4>
+        <button type="submit">Predict Again</button>
       </div>
     </form>
   </body>

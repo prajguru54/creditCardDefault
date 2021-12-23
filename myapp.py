@@ -12,7 +12,7 @@ def predict():
     if request.method == "POST":       
         filepath = request.form.get('filepath')
         return_message =  filepath
-        return return_message
+        return render_template('result.html', path = filepath)
     return None
 
 if __name__ == "__main__":
