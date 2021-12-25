@@ -6,3 +6,267 @@
 2021-12-22/12:59:47		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
 2021-12-22/12:59:47		Entered the create_clusters method of the KMeansClustering class
 2021-12-22/12:59:47		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/11:34:54		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/11:34:54		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/11:34:54		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/11:34:54		Encoding catagorical values successful
+2021-12-24/11:34:54		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/11:35:01		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/11:35:01		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/11:35:01		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/11:35:56		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/11:35:56		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/11:35:56		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/11:35:56		Encoding catagorical values successful
+2021-12-24/11:35:56		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/11:35:59		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/11:35:59		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/11:35:59		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/11:36:00		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/11:36:00		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/11:36:00		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/11:36:00		Encoding catagorical values successful
+2021-12-24/11:36:00		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/11:36:01		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/11:36:01		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/11:36:01		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/11:37:56		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/11:37:56		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/11:37:56		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/11:37:56		Encoding catagorical values successful
+2021-12-24/11:37:56		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/11:37:57		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/11:37:57		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/11:37:57		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/11:37:57		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/11:37:57		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/11:37:57		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/11:37:57		Encoding catagorical values successful
+2021-12-24/11:37:57		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/11:37:58		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/11:37:58		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/11:37:59		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/11:44:50		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/11:44:50		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/11:44:50		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/11:44:50		Encoding catagorical values successful
+2021-12-24/11:44:50		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/11:44:51		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/11:44:51		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/11:44:52		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/11:44:52		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/11:44:52		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/11:44:52		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/11:44:52		Encoding catagorical values successful
+2021-12-24/11:44:52		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/11:44:53		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/11:44:53		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/11:44:53		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/11:45:09		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/11:45:09		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/11:45:09		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/11:45:09		Encoding catagorical values successful
+2021-12-24/11:45:09		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/11:45:10		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/11:45:10		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/11:45:10		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/11:45:11		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/11:45:11		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/11:45:11		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/11:45:11		Encoding catagorical values successful
+2021-12-24/11:45:11		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/11:45:12		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/11:45:12		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/11:45:12		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/15:19:07		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/15:19:07		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/15:19:07		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/15:19:07		Encoding catagorical values successful
+2021-12-24/15:19:07		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/15:19:09		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/15:19:09		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/15:19:09		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/15:19:09		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/15:19:09		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/15:19:09		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/15:19:09		Encoding catagorical values successful
+2021-12-24/15:19:09		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/15:19:11		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/15:19:11		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/15:19:11		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/16:20:14		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:20:14		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:20:14		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/16:20:14		Encoding catagorical values successful
+2021-12-24/16:20:14		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/16:20:16		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/16:20:16		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/16:20:16		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/16:20:48		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:20:48		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:20:48		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/16:20:48		Encoding catagorical values successful
+2021-12-24/16:20:48		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/16:20:49		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/16:20:49		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/16:20:49		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/16:25:40		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:25:40		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:25:40		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/16:25:40		Encoding catagorical values successful
+2021-12-24/16:25:40		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/16:25:41		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/16:25:41		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/16:25:41		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/16:25:41		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:25:41		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:25:41		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/16:25:41		Encoding catagorical values successful
+2021-12-24/16:25:41		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/16:25:43		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/16:25:43		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/16:25:43		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/16:26:07		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:26:07		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:26:07		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/16:26:07		Encoding catagorical values successful
+2021-12-24/16:26:07		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/16:26:09		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/16:26:09		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/16:26:09		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/16:26:09		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:26:09		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:26:09		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/16:26:09		Encoding catagorical values successful
+2021-12-24/16:26:09		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/16:26:11		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/16:26:11		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/16:26:11		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/16:28:56		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:28:56		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:28:56		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/16:28:56		Encoding catagorical values successful
+2021-12-24/16:28:56		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/16:28:58		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/16:28:58		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/16:28:58		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/16:28:58		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:28:58		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:28:58		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/16:28:58		Encoding catagorical values successful
+2021-12-24/16:28:58		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/16:28:59		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/16:28:59		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/16:28:59		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/16:39:38		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:39:38		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:39:38		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/16:39:38		Encoding catagorical values successful
+2021-12-24/16:39:38		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/16:39:39		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/16:39:39		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/16:39:39		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/16:39:40		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:39:40		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:39:40		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/16:39:40		Encoding catagorical values successful
+2021-12-24/16:39:40		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/16:39:41		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/16:39:41		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/16:39:41		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/16:40:53		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:40:53		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:40:53		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/16:40:53		Encoding catagorical values successful
+2021-12-24/16:40:53		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/16:40:54		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/16:40:54		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/16:40:55		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/16:40:55		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:40:55		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:40:55		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/16:40:55		Encoding catagorical values successful
+2021-12-24/16:40:55		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/16:40:56		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/16:40:56		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/16:40:56		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/16:44:35		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:44:35		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:44:35		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/16:44:35		Encoding catagorical values successful
+2021-12-24/16:44:35		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/16:44:36		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/16:44:36		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/16:44:37		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/16:44:37		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:44:37		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:44:37		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/16:44:37		Encoding catagorical values successful
+2021-12-24/16:44:37		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/16:44:38		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/16:44:38		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/16:44:38		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/16:47:33		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:47:33		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:47:33		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/16:47:33		Encoding catagorical values successful
+2021-12-24/16:47:33		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/16:47:34		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/16:47:34		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/16:47:34		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/16:47:34		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:47:34		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/16:47:34		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/16:47:34		Encoding catagorical values successful
+2021-12-24/16:47:34		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/16:47:35		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/16:47:35		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/16:47:36		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/19:44:39		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/19:44:39		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/19:44:39		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/19:44:39		Encoding catagorical values successful
+2021-12-24/19:44:39		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/19:44:41		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/19:44:41		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/19:44:41		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/19:44:41		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/19:44:41		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/19:44:41		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/19:44:41		Encoding catagorical values successful
+2021-12-24/19:44:41		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/19:44:42		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/19:44:42		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/19:44:42		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/19:45:48		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/19:45:48		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/19:45:48		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/19:45:48		Encoding catagorical values successful
+2021-12-24/19:45:48		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/19:45:49		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/19:45:49		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/19:45:49		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/19:45:50		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/19:45:50		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/19:45:50		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/19:45:50		Encoding catagorical values successful
+2021-12-24/19:45:50		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/19:45:51		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/19:45:51		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/19:45:51		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/19:48:46		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/19:48:46		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/19:48:46		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/19:48:46		Encoding catagorical values successful
+2021-12-24/19:48:46		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/19:48:47		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/19:48:47		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/19:48:47		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2021-12-24/19:48:47		Entered the scale_numerical_columns method of the Preprocessor class
+2021-12-24/19:48:47		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-12-24/19:48:47		Entered the encode_categorical_columns method of the Preprocessor class
+2021-12-24/19:48:47		Encoding catagorical values successful
+2021-12-24/19:48:47		Entered the elbow_plot method of the KMeansClustering class
+2021-12-24/19:48:48		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2021-12-24/19:48:48		Entered the create_clusters method of the KMeansClustering class
+2021-12-24/19:48:48		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
