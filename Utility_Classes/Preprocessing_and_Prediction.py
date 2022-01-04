@@ -37,10 +37,13 @@ def predict_current_file(filepath, filename):
     x_test = data_with_clusters
     rf_model = pickle.load(open(r'Saved_Models/RandomForestClassifier.pkl', 'rb'))
     xgb_model = pickle.load(open(r'Saved_Models/XGBClassifier.pkl', 'rb'))
+
     y_pred_rf = rf_model.predict(x_test)
     y_pred_xgb = xgb_model.predict(x_test)
+
     df_y_pred_rf = pd.DataFrame(y_pred_rf)
     df_y_pred_xgb = pd.DataFrame(y_pred_xgb)
+    
     df_y_pred_rf.to_csv(r'Prediction_Output_Files/rf_pred_'+ filename)
     df_y_pred_xgb.to_csv(r'Prediction_Output_Files/xgb_pred_'+ filename)
     return "Success"

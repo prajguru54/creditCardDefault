@@ -1,5 +1,7 @@
 preprocessing_log.log
 .ipynb_checkpoints/
 __pycache__/
+dataset/
+*.zip
 
 

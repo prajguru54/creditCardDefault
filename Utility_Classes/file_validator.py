@@ -15,8 +15,10 @@ class FileValidator:
             if input_file.endswith('csv'):       
                 self.df = pd.read_csv(os.path.join(self.filepath,  input_file))
                 self.current_n_columns = self.df.shape[1]
+                #Check if we have expected number of columns in the prediction data or not
                 if self.n_columns == self.current_n_columns:
                     self.null_counts = self.df.columns.value_counts()
+                    #Check if there is all NaN for any column
                     self.check = (self.null_counts.values == self.df.shape[0]).any()
                     if self.check == False:
                         self.valid_file_list.append(input_file)

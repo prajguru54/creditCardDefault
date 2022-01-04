@@ -11,7 +11,7 @@ def home():
 @app.route('/prediction', methods = ["GET", "POST"])
 def predict():
     if request.method == "POST":       
-        filepath = request.form.get('filepath')
+        filepath = request.form.get('hero-field')
         prediction_output_path = predict_all_files(filepath)
         return render_template('result.html', prediction_output_path = prediction_output_path)
     return None

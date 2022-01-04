@@ -16,8 +16,9 @@ class KMeansClustering:
     def elbow_plot(self,data):
         """
             Method Name: elbow_plot
-            Description: This method saves the plot to decide the optimum number of clusters to the file.
-            Output: A picture saved to the directory
+            Description: This method computes the optimum number of clusters, saves the elbow plot to the file.
+            Input: Dataframe containing the features
+            Output: Optimal number of clusters
 
         """
         self.logger_object.log(self.file_object, 'Entered the elbow_plot method of the KMeansClustering class')
@@ -45,25 +46,16 @@ class KMeansClustering:
 
     def create_clusters(self,data,number_of_clusters):
         """
-                                Method Name: create_clusters
-                                Description: Create a new dataframe consisting of the cluster information.
-                                Output: A datframe with cluster column
-                                On Failure: Raise Exception
-
-                                Written By: iNeuron Intelligence
-                                Version: 1.0
-                                Revisions: None
+            Method Name: create_clusters
+            Description: Create a new dataframe consisting of the cluster information.
+            Input: A dataframe, number of clusters to be created 
+            Output: A datframe with cluster column appended                              
          """
         self.logger_object.log(self.file_object, 'Entered the create_clusters method of the KMeansClustering class')
         self.data=data
         try:
             self.kmeans = KMeans(n_clusters=number_of_clusters, init='k-means++', random_state=42)
-            #self.data = self.data[~self.data.isin([np.nan, np.inf, -np.inf]).any(1)]
-            self.y_kmeans=self.kmeans.fit_predict(data) #  divide data into clusters
-
-            # self.file_op = file_methods.File_Operation(self.file_object,self.logger_object)
-            # self.save_model = self.file_op.save_model(self.kmeans, 'KMeans') # saving the KMeans model to directory
-            
+            self.y_kmeans=self.kmeans.fit_predict(data) #  divide data into clusters           
             pickle.dump(self.kmeans, open('Saved_Models/model-kmeans', 'wb'))                                                                # passing 'Model' as the functions need three parameters
 
             self.data['Cluster']=self.y_kmeans  # create a new column in dataset for storing the cluster information
