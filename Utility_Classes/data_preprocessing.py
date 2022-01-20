@@ -84,29 +84,6 @@ class Preprocessor:
             self.logger_object.log(self.file_object, 'encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class')
             raise Exception()
 
-    def handle_imbalanced_dataset(self,x,y):
-        """
-            Method Name: handle_imbalanced_dataset
-            Description: This method handles the imbalanced dataset to make it a balanced one.
-            Input: Dataframe, Series
-            Output: new balanced feature and target columns
-        """
-        self.logger_object.log(self.file_object,
-                               'Entered the handle_imbalanced_dataset method of the Preprocessor class')
-
-        try:
-            self.rdsmple = RandomOverSampler()
-            self.x_sampled,self.y_sampled  = self.rdsmple.fit_sample(x,y)
-            self.logger_object.log(self.file_object,
-                                   'dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class')
-            return self.x_sampled,self.y_sampled
-
-        except Exception as e:
-            self.logger_object.log(self.file_object,
-                                   'Exception occured in handle_imbalanced_dataset method of the Preprocessor class. Exception message:  ' + str(
-                                       e))
-            self.logger_object.log(self.file_object,
-                                   'dataset balancing Failed. Exited the handle_imbalanced_dataset method of the Preprocessor class')
-            raise Exception()
+    
 
 

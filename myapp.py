@@ -22,7 +22,7 @@ def predict():
             print("Invalid filepath")
             return render_template('failure.html', input_filepath = filepath)
 
-#Use this route to send prediction request from static programme like python, postman etc.
+#Use this route to send prediction request(in JSON format) from static programme like python, postman etc.
 @app.route("/predict_json", methods = [ "POST"])
 def predict_json():
     if request.method == "POST":

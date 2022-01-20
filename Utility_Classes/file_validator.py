@@ -35,7 +35,7 @@ class FileValidator:
         pass
 
 
-# filepath = r'E:\Me\Project\INeuron\creditCardDefaulters\creditCardDefaulters\code\creditCardDefaulters\Prediction_Batch_Files'
+# filepath = r'E:\Me\Project\CreditCardDefault\Prediction_Batch_files'
 
 # fv = FileValidator()
 # valid, invalid = fv.validate_file_structure(filepath, 23)
